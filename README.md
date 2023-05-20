@@ -1,2 +1,3 @@
 # FireBase 연습
-fireBase 연습
+쉬워보여서 시작했는데 개어렵다 광광 우럭따
+왤케 import 나 초기세팅이 안되지
